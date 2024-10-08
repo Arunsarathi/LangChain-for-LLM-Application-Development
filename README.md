@@ -21,5 +21,5 @@ To run the notebooks locally, you'll need the following dependencies:
 
 ### Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/repository-name.git](https://github.com/Arunsarathi/-LangChain-for-LLM-Application-Development.git)
+git clone [https://github.com/yourusername/repository-name.git](https://github.com/Arunsarathi/LangChain-for-LLM-Application-Development.git)
 cd LangChain-for-LLM-Application-Development
