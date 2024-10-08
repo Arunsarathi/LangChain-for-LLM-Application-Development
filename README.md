@@ -1,4 +1,4 @@
-# Project Title: Model Prompt Parsing with Chains and Agents
+# Model Prompt Parsing with Chains and Agents
 
 ## Overview
 This repository is designed for building and testing a model prompt parser that incorporates memory management, question-answering (QnA), and chain-of-thought processing. The project leverages various notebooks for each stage of the process, allowing modular development and evaluation.
